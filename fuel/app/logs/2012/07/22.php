@@ -1,0 +1,44 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+Error - 2012-07-22 15:26:42 --> Error - Could not find asset: pin_move.png in /private/var/www/campus_hackathon/fuel/core/classes/asset/instance.php on line 217
+Error - 2012-07-22 16:57:09 --> 8 - Undefined variable: user_data in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 48
+Error - 2012-07-22 16:59:14 --> 8 - Undefined variable: user_data in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 48
+Error - 2012-07-22 16:59:42 --> 8 - Undefined variable: user_data in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 48
+Error - 2012-07-22 18:35:01 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 130
+Error - 2012-07-22 18:35:04 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 130
+Error - 2012-07-22 18:35:45 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:36:04 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:36:18 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:36:38 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:38:45 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 129
+Error - 2012-07-22 18:41:09 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:41:52 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:42:09 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:42:33 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:43:22 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:43:28 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:44:17 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:44:27 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:45:00 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:45:07 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:47:18 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:47:38 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:47:50 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:54:32 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:55:13 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:55:17 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:55:21 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:24 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:24 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:25 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:26 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:29 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:35 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:56:44 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:57:01 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:57:10 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 131
+Error - 2012-07-22 18:58:02 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 135
+Error - 2012-07-22 20:08:32 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 132
+Error - 2012-07-22 20:08:37 --> 8 - Undefined variable: id in /private/var/www/campus_hackathon/fuel/app/views/review/show.php on line 132
+Error - 2012-07-22 21:28:08 --> 8 - Undefined variable: array in /private/var/www/campus_hackathon/fuel/app/classes/controller/postajax.php on line 50
+Error - 2012-07-22 21:28:36 --> 8 - Undefined variable: array in /private/var/www/campus_hackathon/fuel/app/classes/controller/postajax.php on line 50

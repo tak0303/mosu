@@ -1,0 +1,13 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+Error - 2012-07-20 04:16:04 --> 1048 - Column 'account_id' cannot be null [ INSERT INTO `posts` (`title`, `created_at`, `account_id`, `body`, `url`, `img`) VALUES ('test', '2012-07-20 04:16:04', null, '.box h3{\r\n	text-align:center;\r\n	position:relative;\r\n	top:80px;\r\n}\r\n.box {\r\n	width:70%;\r\n	height:200px;\r\n	background:#FFF;\r\n	margin:40px auto;\r\n}\r\n/*==================================================\r\n * Effect 1\r\n * ===============================================*/\r\n.effect1{\r\n	-webkit-box-shadow: 0 10px 6px -6px #777;\r\n	   -moz-box-shadow: 0 10px 6px -6px #777;\r\n	        box-shadow: 0 10px 6px -6px #777;\r\n}', null, 'collection/campus-newdesign_02_03_93.jpg') ] in /private/var/www/campus_hackathon/fuel/core/classes/database/mysql/connection.php on line 220
+Error - 2012-07-20 04:41:52 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:41:58 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:41:59 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:41:59 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:42:00 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:42:00 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:42:01 --> 6 - Couldn't resolve host 'graph.facebook.com' in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 04:42:24 --> 28 - SSL connection timeout in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 09:15:41 --> 35 - error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
+Error - 2012-07-20 09:15:46 --> 35 - error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /private/var/www/campus_hackathon/fuel/app/vendor/facebook/src/base_facebook.php on line 886
